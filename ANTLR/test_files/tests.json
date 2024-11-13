@@ -1,0 +1,68 @@
+{
+  "name": "John Doe",
+  "age": 32,
+  "isEmployed": true,
+  "address": {
+    "street": "456 Oak Avenue",
+    "city": "Springfield",
+    "zipcode": "98765",
+    "coordinates": {
+      "latitude": 40.7128,
+      "longitude": -74.0060
+    }
+  },
+  "phoneNumbers": [
+    "555-1234",
+    "555-5678"
+  ],
+  "email": "john.doe@example.com",
+  "isVerified": false,
+  "children": [
+    {
+      "name": "Jane Doe",
+      "age": 8,
+      "gender": "female"
+    },
+    {
+      "name": "Jack Doe",
+      "age": 6,
+      "gender": "male"
+    }
+  ],
+  "spouse": {
+    "name": "Jane Doe",
+    "age": 30,
+    "isEmployed": false,
+    "address": {
+      "street": "123 Pine Street",
+      "city": "Springfield",
+      "zipcode": "12345"
+    },
+    "phoneNumbers": [
+      "555-8765"
+    ]
+  },
+  "hobbies": ["reading", "cycling", "coding"],
+  "salary": 85000.50,
+  "hasPets": true,
+  "pets": [
+    {
+      "type": "dog",
+      "name": "Rex",
+      "age": 4
+    },
+    {
+      "type": "cat",
+      "name": "Whiskers",
+      "age": 2
+    }
+  ],
+  "preferences": {
+    "color": "blue",
+    "food": "pizza",
+    "languages": ["English", "Spanish"]
+  },
+  "birthDate": "1992-07-15",
+  "isActive": true,
+  "documents": null
+}
